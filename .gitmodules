@@ -1,3 +1,6 @@
 [submodule "00LightLed"]
 	path = 00LightLed
 	url = git@github.com:RedNoseRedRose/XinChuang-Practice-PaperCircuit-00LightLed.git
+[submodule "01CapacitorChargingDischarging"]
+	path = 01CapacitorChargingDischarging
+	url = git@github.com:RedNoseRedRose/XinChuang-Practice-PaperCircuit-01CapacitorChargingDischarging.git
