@@ -1,0 +1,3 @@
+[submodule "00LightLed"]
+	path = 00LightLed
+	url = git@github.com:RedNoseRedRose/XinChuang-Practice-PaperCircuit-00LightLed.git
